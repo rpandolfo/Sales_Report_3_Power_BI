@@ -37,7 +37,7 @@ A vertical stacked bar chart displays the top customers for the five best-sellin
 
 ---
 
-## 💡 Skills Demonstrated (Power BI Focus)
+## 💡 Skills Demonstrated
 - **Data Modeling:** Creating and managing relationships across multiple tables  
 - **Visualization Design:** Designing effective line charts, stacked bar charts, treemaps, and map visuals  
 - **Dashboard Interactivity:** Implementing consistent formatting, filters, and interactive features for intuitive data storytelling  
